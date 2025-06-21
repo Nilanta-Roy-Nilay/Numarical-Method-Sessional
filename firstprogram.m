@@ -43,14 +43,3 @@ end
 4>5 || 7<9
 3/0
 NaN
-a=1;
-b=2;
-for i=1:7
-r=(a+b)/2;
-disp(r);
-end
-if f(r) >0
-  b=r
-else 
-a=r
-end
